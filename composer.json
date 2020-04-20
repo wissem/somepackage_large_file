@@ -1,0 +1,16 @@
+{
+    "name": "wissem/somepackage_large_file",
+    "description": "some package with a large file",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wissem",
+            "email": "wissemr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+
+    "require": {}
+}
